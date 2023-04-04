@@ -26,7 +26,7 @@ Connect Me allows for users with very little experience to grow together in hope
 
 ## Complete Code
 
-- The code used in this repository is strictly for deployment and only contains the backend along with the React build folder. For the full code, go [here](https://www.github.com/codewithmarty/mern-social).
+The code used in this repository is strictly for deployment and only contains the backend along with the React build folder. For the full code, go [here](https://www.github.com/codewithmarty/mern-social).
 
 ## Try it out
 
